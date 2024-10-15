@@ -16,7 +16,9 @@ open your command prompt and write
 
 ```bash
   pip install requests
+  open file and edit 'tor_path' to your tor.exe path
   python main.py
+  
 ```
 
 ## screenshot
