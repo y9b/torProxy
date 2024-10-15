@@ -11,7 +11,7 @@ is a tool for Windows that allows automatic IP rotation using the Tor proxy,ensu
 - Easily integrate the script into other automations that require anonymity or frequent IP switching.
 - Operate in Windows environment with native support.
 ## How to install?
-
+download [Tor Browser](https://www.torproject.org/download/)
 open your command prompt and write
 
 ```bash
