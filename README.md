@@ -20,6 +20,8 @@ open your command prompt and write
   python main.py
 ```
 
+## Usage
+to use this rotating tor proxy system, just use 127.0.0.1:9050 as a proxy (socket5)
 ## screenshot
 
 ![ProgramScreenShot](https://github.com/y9b/torProxy/blob/main/screenshot.png?raw=true)
