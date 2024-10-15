@@ -11,12 +11,12 @@ is a tool for Windows that allows automatic IP rotation using the Tor proxy,ensu
 - Easily integrate the script into other automations that require anonymity or frequent IP switching.
 - Operate in Windows environment with native support.
 ## How to install?
-download [Tor Browser](https://www.torproject.org/download/)
+download [Tor Browser](https://www.torproject.org/download/) and [Python](https://www.python.org/downloads/)
 open your command prompt and write
 
 ```bash
   pip install requests
-  open file and edit 'tor_path' to your tor.exe path
+  open main.py and edit 'tor_path' to your tor.exe path
   python main.py
   
 ```
