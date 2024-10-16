@@ -23,8 +23,3 @@ Open your command prompt and write.
 
 ## Usage
 To use this rotating tor proxy system, just use '127.0.0.1:9050' as a proxy. (socket5)
-
-## Screenshot
-
-[ProgramScreenShot](https://github.com/y9b/torProxy/blob/main/screenshot.png?raw=true)
-
